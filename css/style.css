@@ -5,7 +5,7 @@
     width: 155px;
     height: 50px;
     line-height: 55px;
-    bottom: 180px;
+    bottom: 270px;
     left: 30px;
     background: #0df053;
     color: #fff;
@@ -29,7 +29,7 @@
     width: 155px;
     height: 50px;
     line-height: 55px;
-    bottom: 110px;
+    bottom: 210px;
     left: 30px;
     background: #0df053;
     color: #fff;
@@ -54,7 +54,7 @@
     width: 175px;
     height: 50px;
     line-height: 55px;
-    bottom: 40px;
+    bottom: 150px;
     left: 30px;
     background: #0df053;
     color: #fff;
@@ -64,12 +64,38 @@
     box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
     z-index: 100;
 }
+
 .btn-wsp-three:hover
 {
     text-decoration: none;
     color: #0df053;
     background:  #fff;
 }
+
+.btn-wsp-four
+{
+    position: fixed;
+    width: 175px;
+    height: 50px;
+    line-height: 55px;
+    bottom: 90px;
+    left: 30px;
+    background: #0df053;
+    color: #fff;
+    border-radius: 50px;
+    text-align: center;
+    font-size: 20px;
+    box-shadow: 0px 1px 10px rgba(0, 0, 0, 0.3);
+    z-index: 100;
+}
+.btn-wsp-four:hover
+{
+    text-decoration: none;
+    color: #0df053;
+    background:  #fff;
+}
+
+
 
 /* 
 Fin Whatsapp */
